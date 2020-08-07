@@ -4,9 +4,9 @@
 - https://github.com/muradbiskin/udacity-cloud-developer-project-2
 
 # Elastic BeanStalk URL
-- http://udacity-cloud-developer-project-2.eu-central-1.elasticbeanstalk.com/
+- http://imagefilterudacity-env.eba-pjcpytru.us-east-1.elasticbeanstalk.com/
 
-Example: `http://udacity-cloud-developer-project-2.eu-central-1.elasticbeanstalk.com/filteredimage?image_url=https://www.missionridgevet.com/wp-content/uploads/sites/6/2018/09/kitten-768x513.jpg`
+Example: `http://imagefilterudacity-env.eba-pjcpytru.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://images-na.ssl-images-amazon.com/images/G/01/awssignin/static/aws_logo_smile.png`
 
 ## Tasks
 
