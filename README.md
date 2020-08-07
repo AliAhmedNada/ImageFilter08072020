@@ -4,6 +4,7 @@
 - https://github.com/muradbiskin/udacity-cloud-developer-project-2
 
 # Elastic BeanStalk URL
+Please Change the host in the postman to be the below to test filter
 - http://imagefilterudacity-env.eba-pjcpytru.us-east-1.elasticbeanstalk.com/
 
 Example: `http://imagefilterudacity-env.eba-pjcpytru.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://images-na.ssl-images-amazon.com/images/G/01/awssignin/static/aws_logo_smile.png`
